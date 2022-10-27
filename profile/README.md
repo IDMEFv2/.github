@@ -23,7 +23,7 @@
    [IDMEFv2 format python library](https://github.com/IDMEFv2/python-idmefv2) : 
    A Python library for parsing, handling, and generating JSON IDMEFv2 messages.
    
-    [IDMEFv2 transport python library](https://github.com/IDMEFv2/python-idmefv2-transport) : 
+   [IDMEFv2 transport python library](https://github.com/IDMEFv2/python-idmefv2-transport) : 
    A Python library that provides various transport implementations to exchange IDMEFv2 messages.
    
 
