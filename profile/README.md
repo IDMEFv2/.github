@@ -1,4 +1,4 @@
-## IDMEFv2 Git Hub 👋
+## Welcome to the official IDMEFv2 standardisation efforts Git Hub
 
    The Incident Detection Message Exchange Format version 2 (IDMEFv2)
    provides a way to describe any incidents detected on cyber and/or
