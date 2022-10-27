@@ -17,8 +17,11 @@
    This GitHub hosts technical tools and librairies implementing IDMEFV2 as well
    as IDMEFv2 official IETF Internet Drafts.
    
-   [IDMEFv2 Specification](https://github.com/IDMEFv2/idmefv2-drafts)
+   [IDMEFv2 Specification](https://github.com/IDMEFv2/idmefv2-drafts) : 
    Internet Drafts , JSON schema, examples and other stuff to understand and manipulate IDMEFv2
+   
+   [IDMEFv2 format python library](https://github.com/IDMEFv2/python-idmefv2) : 
+   A Python library for parsing, handling, and generating JSON IDMEFv2 messages.
    
    
 
