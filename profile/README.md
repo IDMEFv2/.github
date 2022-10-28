@@ -21,7 +21,7 @@
    * [IDMEFv2 Specification](https://github.com/IDMEFv2/idmefv2-drafts) : 
    Internet Drafts , JSON schema, examples and other stuff to understand and manipulate IDMEFv2
    
-    * [IDMEFv2 prototype](https://github.com/IDMEFv2/IDMEFv2-prototype) : 
+   * [IDMEFv2 prototype](https://github.com/IDMEFv2/IDMEFv2-prototype) : 
    An IDMEFv2 manager prototype (server, storage, correlation and visualisation)
    
    Python librairies :
