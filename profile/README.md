@@ -38,6 +38,9 @@
    [IDMEFv2 transport swift library](https://github.com/IDMEFv2/swift-idmef-transport-library) : 
    A swift library for transporting IDMEFv2 messages over HTTPs.
    
+   [IDMEFv2 manager prototype](https://github.com/IDMEFv2/prototype) : 
+   A complete IDMEFv2 manager prototype (reception, storage, correlation and visualisation)
+   
 
 <!--
 
