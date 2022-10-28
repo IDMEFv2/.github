@@ -16,8 +16,7 @@
    
    Please visit the IDMEFv2 Wiki for more informations on IDMEFv2 : https://github.com/IDMEFv2/idmefv2-drafts/wiki
    
-   This GitHub hosts technical tools and librairies implementing IDMEFV2 as well
-   as IDMEFv2 official IETF Internet Drafts.
+   This GitHub hosts work  IDMEFv2 official IETF Internet Drafts and technical tools and librairies for testing/implementing IDMEFV2 :
    
    * [IDMEFv2 Specification](https://github.com/IDMEFv2/idmefv2-drafts) : 
    Internet Drafts , JSON schema, examples and other stuff to understand and manipulate IDMEFv2
