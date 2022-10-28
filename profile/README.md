@@ -26,16 +26,16 @@
    [IDMEFv2 transport python library](https://github.com/IDMEFv2/python-idmefv2-transport) : 
    A Python library that provides various transport implementations to exchange IDMEFv2 messages.
    
-   [IDMEFv2 format java library](https://github.com/IDMEFv2/java-idmefv2) : 
+   [IDMEFv2 format java library](https://github.com/IDMEFv2/java-idmef) : 
    A Java library for serializing, deserializing and validating JSON IDMEFv2 messages.
    
-   [IDMEFv2 transport java library](https://github.com/IDMEFv2/java-idmefv2-transport) : 
+   [IDMEFv2 transport java library](https://github.com/IDMEFv2/java-idmef-transport) : 
    A Java library for transporting IDMEFv2 messages over HTTPs.
    
-   [IDMEFv2 format swift library](https://github.com/IDMEFv2/swift-idmefv2) : 
+   [IDMEFv2 format swift library](https://github.com/IDMEFv2/swift-idmef) : 
    A swift library for serializing, deserializing and validating JSON IDMEFv2 messages.
    
-   [IDMEFv2 transport swift library](https://github.com/IDMEFv2/swift-idmefv2-transport) : 
+   [IDMEFv2 transport swift library](https://github.com/IDMEFv2/swift-idmef-transport) : 
    A swift library for transporting IDMEFv2 messages over HTTPs.
    
 
