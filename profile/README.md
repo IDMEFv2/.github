@@ -14,6 +14,8 @@
    efficient detection of complex and combined cyber and physical
    attacks on critical infrastructures.
    
+   Please visit the IDMEFv2 Wiki for more informations : https://github.com/IDMEFv2/idmefv2-drafts/wiki
+   
    This GitHub hosts technical tools and librairies implementing IDMEFV2 as well
    as IDMEFv2 official IETF Internet Drafts.
    
