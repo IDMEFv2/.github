@@ -6,9 +6,9 @@
    It's agnostic so it can be used in stand-alone or combined cyber (SIEM), physical (PSIM) and availability (NMS) monitoring
    systems.  IDMEFv2 can also be used to describe cyber and physical potential threats (CTI/PTI).
    
-   Please visit the IDMEFv2 Wiki for more informations on IDMEFv2 : https://github.com/IDMEFv2/idmefv2-drafts/wiki
+   Please visit the IDMEFv2 Wiki for more informations on IDMEFv2 : [IDMEFv2 WIKI](https://github.com/IDMEFv2/idmefv2-drafts/wiki)
    
-   This GitHub hosts work  IDMEFv2 official IETF Internet Drafts and technical tools and librairies for testing/implementing IDMEFV2 :
+   This GitHub hosts IDMEFv2 official IETF Internet Drafts and technical tools and librairies for testing/implementing:
    
    * [IDMEFv2 Specification](https://github.com/IDMEFv2/idmefv2-drafts) : 
    Internet Drafts , JSON schema, examples and other stuff to understand and manipulate IDMEFv2
