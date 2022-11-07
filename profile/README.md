@@ -12,13 +12,13 @@
    
    Documentation :
    
-   * [IDMEFv2 : Genesis and history](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
+   * [IDMEFv2 Genesis and history : ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
    A brief history of IDMEF V1 and V2. Started last century ...
    
-   * [IDMEFv2 FAQ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-FAQ)
+   * [IDMEFv2 FAQ : ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-FAQ)
    Frequently asked questions about IDMEFv2.
    
-   * [IDMEFv2 Specification](https://github.com/IDMEFv2/idmefv2-drafts) : 
+   * [IDMEFv2 Specification : ](https://github.com/IDMEFv2/idmefv2-drafts) : 
    Internet Drafts , JSON schema, examples and other stuff to understand and manipulate IDMEFv2
    
    * [IDMEFv2 JSON Examples ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-:-JSON-Alerts-Examples)
