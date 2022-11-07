@@ -15,18 +15,18 @@
    * [IDMEFv2 : Genesis and history](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
    A brief history of IDMEF V1 and V2. Started last century ...
    
-    * [IDMEFv2 FAQ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-FAQ)
+   * [IDMEFv2 FAQ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-FAQ)
    Frequently asked questions about IDMEFv2.
    
    * [IDMEFv2 Specification](https://github.com/IDMEFv2/idmefv2-drafts) : 
    Internet Drafts , JSON schema, examples and other stuff to understand and manipulate IDMEFv2
    
-   * [IDMEFv2 JSON Examples ] (https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-:-JSON-Alerts-Examples)
+   * [IDMEFv2 JSON Examples ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-:-JSON-Alerts-Examples)
    Nearly 30 examples of IDMEFv2 JSON alert (Cyber, Physical, Threat , Monitoring, etc.) . A must read if you are creating your own JSON files.
    
-   IDMEFv2 protype : (work in progress)
+   IDMEFv2 prototypes : (work in progress)
    
-   * [IDMEFv2 prototype](https://github.com/IDMEFv2/IDMEFv2-prototype) : 
+   * [IDMEFv2 SIEM prototype](https://github.com/IDMEFv2/IDMEFv2-prototype) : 
    An IDMEFv2 manager prototype (server, storage, correlation and visualisation)
    
    Python librairies :
