@@ -22,6 +22,11 @@
    * [IDMEFv2 JSON Examples ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-:-JSON-Alerts-Examples)
    Nearly 30 examples of IDMEFv2 JSON alert (Cyber, Physical, Threat , Monitoring, etc.) . A must read if you are creating your own JSON files.
    
+   Online tools :
+   
+   * [IDMEFv2 JSON file Validator : ](https://idmefv2.github.io/aaa.html)
+   A tool to validate IDMEFv2 JSON files. Essential to tune your own JSON files.
+   
    IDMEFv2 prototypes : (work in progress)
    
    * [IDMEFv2 SIEM prototype](https://github.com/IDMEFv2/IDMEFv2-prototype) : 
