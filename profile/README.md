@@ -16,11 +16,14 @@
    * [IDMEFv2 FAQ : ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-FAQ)
    Frequently asked questions about IDMEFv2.
    
-   * [IDMEFv2 Specification : ](https://github.com/IDMEFv2/idmefv2-drafts) : 
-   Internet Drafts , JSON schema, examples and other stuff to understand and manipulate IDMEFv2
+   * [IDMEFv2 Specification : ](https://github.com/IDMEFv2/idmefv2-drafts)  
+       * Format IETF Internet Draft :  [ The Incident Detection Message Exchange Format version 2 (IDMEFv2)](https://datatracker.ietf.org/doc/draft-lehmann-idmefv2/)
+       * TRansport IETF Internet Draft : [Transport of Incident Detection Message Exchange Format version 2 (IDMEFv2) Messages over HTTPS] (https://datatracker.ietf.org/doc/draft-poirotte-idmefv2-https-transport/) 
+       * IDMEFv2 JSON Schema : [ JSON Schema for message validation ] ( https://raw.githubusercontent.com/IDMEFv2/IDMEFv2-Specification/main/IDMEFv2.schema)
+       * IDMEFv2 Définition Cheat Sheet : IDMEFv2 Attributs and enumeration summarized in a excel file
    
    * [IDMEFv2 JSON Examples ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-:-JSON-Alerts-Examples)
-   Nearly 30 examples of IDMEFv2 JSON alert (Cyber, Physical, Threat , Monitoring, etc.) . A must read if you are creating your own JSON files.
+   IDMEFv2 JSON alert (Cyber, Physical, Threat , Monitoring, etc.) . A must read if you are creating your own JSON files.
    
    Online tools :
    
