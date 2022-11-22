@@ -24,7 +24,7 @@
    
    Online tools :
    
-   * [IDMEFv2 JSON file Validator : ](https://idmefv2.github.io/aaa.html)
+   * [IDMEFv2 JSON file Validator : ](https://idmefv2.github.io/idmefv2_validator.html)
    A tool to validate IDMEFv2 JSON files. Essential to tune your own JSON files.
    
    IDMEFv2 prototypes : (work in progress)
