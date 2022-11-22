@@ -18,17 +18,19 @@
    
    * [IDMEFv2 Specification : ](https://github.com/IDMEFv2/idmefv2-drafts)  
        * Format IETF Internet Draft :  [ The Incident Detection Message Exchange Format version 2 (IDMEFv2)](https://datatracker.ietf.org/doc/draft-lehmann-idmefv2/)
-       * TRansport IETF Internet Draft : [Transport of Incident Detection Message Exchange Format version 2 (IDMEFv2) Messages over HTTPS] (https://datatracker.ietf.org/doc/draft-poirotte-idmefv2-https-transport/) 
-       * IDMEFv2 JSON Schema : [ JSON Schema for message validation ] ( https://raw.githubusercontent.com/IDMEFv2/IDMEFv2-Specification/main/IDMEFv2.schema)
-       * IDMEFv2 Définition Cheat Sheet : IDMEFv2 Attributs and enumeration summarized in a excel file
+       * Transport IETF Internet Draft : [Transport of IDMEFv2 Messages over HTTPS](https://datatracker.ietf.org/doc/draft-poirotte-idmefv2-https-transport/) 
+       * IDMEFv2 Définition Cheat Sheet : [IDMEFv2 Attributs and enumeration summarized in a excel file](https://github.com/IDMEFv2/IDMEFv2-Specification/blob/main/IDMEFv2-Definition.xlsx)
    
    * [IDMEFv2 JSON Examples ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-:-JSON-Alerts-Examples)
    IDMEFv2 JSON alert (Cyber, Physical, Threat , Monitoring, etc.) . A must read if you are creating your own JSON files.
    
-   Online tools :
+   Tools :
    
-   * [IDMEFv2 JSON file Validator : ](https://idmefv2.github.io/idmefv2_validator.html)
+   * [Online IDMEFv2 JSON file Validator : ](https://idmefv2.github.io/idmefv2_validator.html)
    A tool to validate IDMEFv2 JSON files. Essential to tune your own JSON files.
+   
+   * [ IDMEFv2 JSON Schema]( https://raw.githubusercontent.com/IDMEFv2/IDMEFv2-Specification/main/IDMEFv2.schema)
+   A JSON Schema for IDMEFv2 message validation.
    
    IDMEFv2 prototypes : (work in progress)
    
