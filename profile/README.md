@@ -21,8 +21,12 @@
        * Transport IETF Internet Draft : [Transport of IDMEFv2 Messages over HTTPS](https://datatracker.ietf.org/doc/draft-poirotte-idmefv2-https-transport/) 
        * IDMEFv2 Définition Cheat Sheet : [IDMEFv2 Attributs and enumeration summarized in a excel file](https://github.com/IDMEFv2/IDMEFv2-Specification/blob/main/IDMEFv2-Definition.xlsx)
    
-   * [IDMEFv2 JSON Examples ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-:-JSON-Alerts-Examples)
+<!---  
+
+* [IDMEFv2 JSON Examples ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-:-JSON-Alerts-Examples)  
    IDMEFv2 JSON alert (Cyber, Physical, Threat , Monitoring, etc.) . A must read if you are creating your own JSON files.
+
+--->
    
    Tools :
    
