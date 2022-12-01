@@ -1,4 +1,3 @@
-<base target="_blank">
 ## Welcome to the official IDMEFv2 standardisation efforts Git Hub
 
    The Incident Detection Message Exchange Format version 2 (IDMEFv2) is a universal format to describe any events and incidents happening on cyber and/or
