@@ -11,7 +11,7 @@
    Documentation :
    
    * [IDMEFv2 Genesis and history : ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
-   A brief history of IDMEF V1 and V2. Started last century ...
+   A brief history of IDMEF V1 and V2.
    
    * [IDMEFv2 : Standard Definition principles](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-principles) : The twelve principles followed to define IDMEFv2.
    
