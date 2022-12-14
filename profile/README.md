@@ -2,6 +2,8 @@
 
    The Incident Detection Message Exchange Format version 2 (IDMEFv2) is a universal format to describe any events and incidents detected on cyber and/or
    physical infrastructures.
+   
+   Follow us on [**IDMEFv2 Mailing List**] (https://www.freelists.org/list/idmefv2)
 
    The format is agnostic so it can be used in stand-alone or combined cyber (SIEM), physical (PSIM) and availability (NMS) monitoring
    architectures.  IDMEFv2 can also be used to describe cyber and physical potential threats (CTI/PTI).
