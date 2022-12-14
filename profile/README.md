@@ -1,12 +1,12 @@
 ## Welcome to the official IDMEFv2 standardisation efforts Git Hub
 
-   The Incident Detection Message Exchange Format version 2 (IDMEFv2) is a universal format to describe any events and incidents happening on cyber and/or
+   The Incident Detection Message Exchange Format version 2 (IDMEFv2) is a universal format to describe any events and incidents detected on cyber and/or
    physical infrastructures.
 
-   It's agnostic so it can be used in stand-alone or combined cyber (SIEM), physical (PSIM) and availability (NMS) monitoring
-   systems.  IDMEFv2 can also be used to describe cyber and physical potential threats (CTI/PTI).
+   The format is agnostic so it can be used in stand-alone or combined cyber (SIEM), physical (PSIM) and availability (NMS) monitoring
+   architectures.  IDMEFv2 can also be used to describe cyber and physical potential threats (CTI/PTI).
    
-   This GitHub hosts IDMEFv2 official IETF Internet Drafts and technical tools and librairies for testing/implementing:
+   This GitHub organisation hosts IDMEFv2 official IETF Internet Drafts and technical tools and librairies for testing/implementing.
    
    Documentation :
    
