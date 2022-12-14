@@ -4,7 +4,7 @@
    physical infrastructures.
    
    >
-   > ###       Follow us on [**IDMEFv2 Mailing List**](https://www.freelists.org/list/idmefv2)
+   > ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Follow us on  [**IDMEFv2 Mailing List**](https://www.freelists.org/list/idmefv2)
    >
 
    The format is agnostic so it can be used in stand-alone or combined cyber (SIEM), physical (PSIM) and availability (NMS) monitoring
@@ -24,10 +24,10 @@
    * [IDMEFv2 FAQ : ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-FAQ)
    Frequently asked questions about IDMEFv2.
    
-   * [IDMEFv2 Specification : ](https://github.com/IDMEFv2/idmefv2-drafts)  
-       * Format IETF Internet Draft :  [ The Incident Detection Message Exchange Format version 2 (IDMEFv2)](https://datatracker.ietf.org/doc/draft-lehmann-idmefv2/)
-       * Transport IETF Internet Draft : [Transport of IDMEFv2 Messages over HTTPS](https://datatracker.ietf.org/doc/draft-poirotte-idmefv2-https-transport/) 
-       * IDMEFv2 Définition Cheat Sheet : [IDMEFv2 Attributs and enumeration summarized in a excel file](https://github.com/IDMEFv2/IDMEFv2-Specification/blob/main/IDMEFv2-Definition.xlsx)
+   * [IDMEFv2 Specification : V00 15/10/2022 ](https://github.com/IDMEFv2/idmefv2-drafts)  
+       * Format Official IETF Internet Draft :  [ The Incident Detection Message Exchange Format version 2 (IDMEFv2)](https://datatracker.ietf.org/doc/draft-lehmann-idmefv2/)
+       * Transport Official IETF Internet Draft : [Transport of IDMEFv2 Messages over HTTPS](https://datatracker.ietf.org/doc/draft-poirotte-idmefv2-https-transport/) 
+       * Internal IDMEFv2 Définition Cheat Sheet : [IDMEFv2 Attributs and enumeration summarized in a excel file](https://github.com/IDMEFv2/IDMEFv2-Specification/blob/main/IDMEFv2-Definition.xlsx)
    
 <!---  
 
