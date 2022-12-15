@@ -44,10 +44,14 @@
    * [ IDMEFv2 JSON Schema]( https://raw.githubusercontent.com/IDMEFv2/IDMEFv2-Specification/main/IDMEFv2.schema)
    A JSON Schema for IDMEFv2 message validation.
    
+ <!---     
+   
    IDMEFv2 prototypes : (work in progress)
    
    * [IDMEFv2 SIEM prototype](https://github.com/IDMEFv2/IDMEFv2-prototype) : 
    An IDMEFv2 manager prototype (server, storage, correlation and visualisation)
+   
+-->   
    
    Python librairies :
    
