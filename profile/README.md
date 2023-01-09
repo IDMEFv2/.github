@@ -14,20 +14,22 @@
    
    Documentation :
    
-   * [IDMEFv2 Genesis and history : ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
+   * [IDMEFv2 in a nutshell: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-in-a-nutshell)
+   
+   * [IDMEFv2 Genesis and history: ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
    A brief history of IDMEF V1 and V2.
    
-   * [IDMEFv2 : Standard Definition principles](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-principles) : The twelve principles followed to define IDMEFv2.
+   * [IDMEFv2: Standard Definition principles](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-principles) : The twelve principles followed to define IDMEFv2.
    
-   * [IDMEFv2 Glossary : ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-:-Glossary) IDMEFv2 related terms glossary.
+   * [IDMEFv2 Glossary: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-:-Glossary) IDMEFv2 related terms glossary.
    
-   * [IDMEFv2 FAQ : ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-FAQ)
+   * [IDMEFv2 FAQ: ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-FAQ)
    Frequently asked questions about IDMEFv2.
    
-   * [IDMEFv2 Specification : V00 15/10/2022 ](https://github.com/IDMEFv2/idmefv2-drafts)  
+   * [IDMEFv2 Specification: V00 15/10/2022 ](https://github.com/IDMEFv2/idmefv2-drafts)  
        * Format Official IETF Internet Draft :  [ The Incident Detection Message Exchange Format version 2 (IDMEFv2)](https://datatracker.ietf.org/doc/draft-lehmann-idmefv2/)
-       * Transport Official IETF Internet Draft : [Transport of IDMEFv2 Messages over HTTPS](https://datatracker.ietf.org/doc/draft-poirotte-idmefv2-https-transport/) 
-       * Internal IDMEFv2 Définition Cheat Sheet : [IDMEFv2 Attributs and enumeration summarized in a excel file](https://github.com/IDMEFv2/IDMEFv2-Specification/blob/main/IDMEFv2-Definition.xlsx)
+       * Transport Official IETF Internet Draft: [Transport of IDMEFv2 Messages over HTTPS](https://datatracker.ietf.org/doc/draft-poirotte-idmefv2-https-transport/) 
+       * Internal IDMEFv2 Définition Cheat Sheet: [IDMEFv2 Attributs and enumeration summarized in a excel file](https://github.com/IDMEFv2/IDMEFv2-Specification/blob/main/IDMEFv2-Definition.xlsx)
    
 <!---  
 
@@ -38,7 +40,7 @@
    
    Tools :
    
-   * [Online IDMEFv2 JSON file Validator : ](https://idmefv2.github.io/idmefv2_validator.html)
+   * [Online IDMEFv2 JSON file Validator: ](https://idmefv2.github.io/idmefv2_validator.html)
    A tool to validate IDMEFv2 JSON files. Essential to tune your own JSON files.
    
    * [ IDMEFv2 JSON Schema]( https://raw.githubusercontent.com/IDMEFv2/IDMEFv2-Specification/main/IDMEFv2.schema)
@@ -55,26 +57,26 @@
    
    Python librairies :
    
-   * [IDMEFv2 format python library](https://github.com/IDMEFv2/python-idmefv2) : 
+   * [IDMEFv2 format python library](https://github.com/IDMEFv2/python-idmefv2): 
    A Python library for parsing, handling, and generating JSON IDMEFv2 messages.
    
-   * [IDMEFv2 transport python library](https://github.com/IDMEFv2/python-idmefv2-transport) : 
+   * [IDMEFv2 transport python library](https://github.com/IDMEFv2/python-idmefv2-transport): 
    A Python library that provides various transport implementations to exchange IDMEFv2 messages.
    
    Java librairies :
    
-   * [IDMEFv2 format java library](https://github.com/IDMEFv2/java-idmef-library) : 
+   * [IDMEFv2 format java library](https://github.com/IDMEFv2/java-idmef-library): 
    A Java library for serializing, deserializing and validating JSON IDMEFv2 messages.
    
-   * [IDMEFv2 transport java library](https://github.com/IDMEFv2/java-idmef-transport-library) : 
+   * [IDMEFv2 transport java library](https://github.com/IDMEFv2/java-idmef-transport-library): 
    A Java library for transporting IDMEFv2 messages over HTTPs.
    
    Swift librairies :
    
-   * [IDMEFv2 format swift library](https://github.com/IDMEFv2/swift-idmef-library) : 
+   * [IDMEFv2 format swift library](https://github.com/IDMEFv2/swift-idmef-library): 
    A swift library for serializing, deserializing and validating JSON IDMEFv2 messages.
    
-   * [IDMEFv2 transport swift library](https://github.com/IDMEFv2/swift-idmef-transport-library) : 
+   * [IDMEFv2 transport swift library](https://github.com/IDMEFv2/swift-idmef-transport-library): 
    A swift library for transporting IDMEFv2 messages over HTTPs.
    
   
