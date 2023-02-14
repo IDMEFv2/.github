@@ -14,6 +14,8 @@
    
    Documentation :
    
+   * [IDMEFv2 Wiki: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki) Direct access to the IDMEfv2 wiki
+   
    * **(NEW)** [IDMEFv2 in a nutshell: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-in-a-nutshell) A short introduction of IDMEFv2. 
    
    * [IDMEFv2 Genesis and history: ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
