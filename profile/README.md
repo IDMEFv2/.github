@@ -12,6 +12,8 @@
    
    This GitHub organisation hosts IDMEFv2 official IETF Internet Drafts and technical tools and librairies for testing/implementing.
    
+   The format is still in definition stage. This website supports the effort toward standardization.
+   
    Documentation :
    
    * [IDMEFv2 Wiki: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki) Direct access to the IDMEfv2 wiki
