@@ -16,10 +16,13 @@
    
    * [IDMEFv2 Wiki: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki) Direct access to the IDMEfv2 wiki
    
-   * **(NEW)** [IDMEFv2 in a nutshell: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-in-a-nutshell) A short introduction of IDMEFv2. 
+   * [IDMEFv2 in a nutshell: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-in-a-nutshell) A short introduction of IDMEFv2. 
    
    * [IDMEFv2 Genesis and history: ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
    A brief history of IDMEF V1 and V2.
+   
+   * [IDMEFv2 Initiative planning: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-:-Initiative-planning-(2022---2023---2024-)s)
+   Macro planning of the IDMEFv2 nitiative planning
    
    * [IDMEFv2: Standard Definition principles](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-principles) : The twelve principles followed to define IDMEFv2.
    
