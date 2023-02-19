@@ -16,8 +16,6 @@
    
    Documentation :
    
-   * [IDMEFv2 Wiki: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki) Direct access to the IDMEfv2 wiki
-   
    * [IDMEFv2 in a nutshell: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-in-a-nutshell) A short introduction of IDMEFv2. 
    
    * [IDMEFv2 Genesis and history: ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
@@ -32,6 +30,8 @@
    
    * [IDMEFv2 FAQ: ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-FAQ)
    Frequently asked questions about IDMEFv2.
+   
+   * [IDMEFv2 Wiki: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki) Direct access to the IDMEfv2 wiki
    
    * [IDMEFv2 Specification: V00 15/10/2022 ](https://github.com/IDMEFv2/idmefv2-drafts)  
        * Format Official IETF Internet Draft :  [ The Incident Detection Message Exchange Format version 2 (IDMEFv2)](https://datatracker.ietf.org/doc/draft-lehmann-idmefv2/)
