@@ -8,7 +8,7 @@
    >
 
    The format is agnostic so it can be used in stand-alone or combined cyber (SIEM), physical (PSIM) and availability (NMS) monitoring
-   architectures.  IDMEFv2 can also be used to describe cyber and physical potential threats (CTI/PTI).
+   architectures.  IDMEFv2 can also be used to describe natural and man-made hazards threats and incidents.
    
    This GitHub organisation hosts IDMEFv2 official IETF Internet Drafts and technical tools and librairies for testing/implementing.
    
