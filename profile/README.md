@@ -10,7 +10,7 @@
    The format is agnostic so it can be used in stand-alone or combined cyber (SIEM), physical (PSIM) and availability (NMS) monitoring
    architectures.  IDMEFv2 can also be used to describe natural and man-made hazards threats and incidents.
    
-   This GitHub organisation hosts IDMEFv2 official IETF Internet Drafts and technical tools and librairies for testing/implementing.
+   This IDMEFv2 GitHub hosts documentation, the official IETF Internet Drafts and technical tools and librairies for testing/implementing.
    
    The format is still in definition stage. This website supports the effort toward standardization.
    
