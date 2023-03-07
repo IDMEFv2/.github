@@ -21,10 +21,8 @@
    * [IDMEFv2 Genesis and history: ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
    A brief history of IDMEF V1 and V2.
    
-   * [IDMEFv2 Initiative planning: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-:-Initiative-planning-(2022---2023---2024-)s)
+   * [IDMEFv2 Initiative planning: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-:-Initiative-planning) :
    Macro planning of the IDMEFv2 standardisation initiative planning
-   
-   [aaa]https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-:-Initiative-planning-(2022---2023---2024-)
    
    * [IDMEFv2: Standard Definition principles](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-principles) : The twelve principles followed to define IDMEFv2.
    
