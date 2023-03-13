@@ -1,6 +1,9 @@
+# This wiki is not maintained anymore please visit : [https://www.idmefv2.org](https://www.idmefv2.org) 
+# for recent information about the IDMEFv2 Task Force
+
 ## Welcome to the official Idmefv2 Standardisation Initiative Taskforce
 
-# This wiki is not maintained anymore please visit : [https://www.idmefv2.org](https://www.idmefv2.org) for recent information about the IDMEFv2 Task Force
+
 
    The Incident Detection Message Exchange Format version 2 (IDMEFv2) is a universal format to describe any events and incidents detected on cyber and/or
    physical infrastructures.
