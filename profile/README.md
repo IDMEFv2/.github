@@ -1,6 +1,8 @@
 # This wiki is not maintained anymore please visit : [https://www.idmefv2.org](https://www.idmefv2.org) 
 # for recent information about the IDMEFv2 Task Force
 
+# IDMEfv2 Software is still available on the GitHub repositories.
+
 ## Welcome to the official Idmefv2 Standardisation Initiative Taskforce
 
 
