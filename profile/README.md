@@ -4,7 +4,7 @@
 
 
    The Incident Detection Message Exchange Format version 2 (IDMEFv2) is a universal format to describe any events and incidents detected on cyber and/or
-   physical infrastructures. More information on : https://www.idmefv2.org
+   physical infrastructures. 
    
    >
    > ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[**Follow us on IDMEFv2 Mailing List**](https://www.freelists.org/list/idmefv2)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [**How to join the IDMEFv2 Initiatve ?**](https://idmefv2.github.io/index.php/how-to-join/index.html)
@@ -15,7 +15,7 @@
    
    This IDMEFv2 GitHub hosts documentation, the official IETF Internet Drafts and technical tools and librairies for testing/implementing.
    
-   The format is still in definition stage. This website supports the effort toward standardization.
+   The format is still in definition stage. More information on : https://www.idmefv2.org
    
    Documentation :
    
