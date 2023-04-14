@@ -27,12 +27,11 @@
    * [IDMEFv2 Initiative planning: ](https://idmefv2.github.io/index.php/standardization-planning/index.html) :
    Macro planning of the IDMEFv2 standardisation initiative planning
    
-   * [IDMEFv2: Standard Definition principles](https://idmefv2.github.io/index.php/standardization-principles/index.html) : The twelve principles followed to define IDMEFv2.
+   * [IDMEFv2: Standard Definition principles](https://idmefv2.github.io/index.php/standardization-principles/index.html) : The principles followed to define IDMEFv2.
    
    * [IDMEFv2 Glossary: ](https://idmefv2.github.io/index.php/glossary/index.html) IDMEFv2 related terms glossary.
    
-   * [IDMEFv2 FAQ: ](https://idmefv2.github.io/index.php/idmefv2-faq/index.html)
-   Frequently asked questions about IDMEFv2.
+   * [IDMEFv2 FAQ: ](https://idmefv2.github.io/index.php/idmefv2-faq/index.html) Frequently asked questions about IDMEFv2.
    
    
    * [IDMEFv2 Specification: V00 15/10/2022 ](https://github.com/IDMEFv2/idmefv2-drafts)  
