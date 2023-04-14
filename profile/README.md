@@ -1,9 +1,5 @@
-# This wiki is not maintained anymore please visit : [https://www.idmefv2.org](https://www.idmefv2.org) 
-# for recent information about the IDMEFv2 Task Force
 
-# IDMEfv2 Software is still available on this GitHub repositories: [https://github.com/orgs/IDMEFv2/repositories](https://github.com/orgs/IDMEFv2/repositories)
-
-## Welcome to the official Idmefv2 Standardisation Initiative Taskforce
+## Welcome to the official IDMEFv2 Standardisation Initiative Taskforce
 
 
 
@@ -23,22 +19,21 @@
    
    Documentation :
    
-   * [IDMEFv2 in a nutshell: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-in-a-nutshell) A short introduction of IDMEFv2. 
+   * [IDMEFv2 in a nutshell: ](https://idmefv2.github.io/index.php/idmefv2-in-a-nutshell/index.html) A short introduction of IDMEFv2. 
    
-   * [IDMEFv2 Genesis and history: ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-history-and-genesis)
+   * [IDMEFv2 Genesis and history: ](https://idmefv2.github.io/index.php/genesis-and-history/index.html)
    A brief history of IDMEF V1 and V2.
    
-   * [IDMEFv2 Initiative planning: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-:-Initiative-planning) :
+   * [IDMEFv2 Initiative planning: ](https://idmefv2.github.io/index.php/standardization-planning/index.html) :
    Macro planning of the IDMEFv2 standardisation initiative planning
    
-   * [IDMEFv2: Standard Definition principles](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-principles) : The twelve principles followed to define IDMEFv2.
+   * [IDMEFv2: Standard Definition principles](https://idmefv2.github.io/index.php/standardization-principles/index.html) : The twelve principles followed to define IDMEFv2.
    
-   * [IDMEFv2 Glossary: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki/IDMEFv2-:-Glossary) IDMEFv2 related terms glossary.
+   * [IDMEFv2 Glossary: ](https://idmefv2.github.io/index.php/glossary/index.html) IDMEFv2 related terms glossary.
    
-   * [IDMEFv2 FAQ: ](https://github.com/IDMEFv2/idmefv2-drafts/wiki/IDMEFv2-FAQ)
+   * [IDMEFv2 FAQ: ](https://idmefv2.github.io/index.php/idmefv2-faq/index.html)
    Frequently asked questions about IDMEFv2.
    
-   * [IDMEFv2 Wiki: ](https://github.com/IDMEFv2/IDMEFv2-Specification/wiki) Direct access to the IDMEfv2 wiki
    
    * [IDMEFv2 Specification: V00 15/10/2022 ](https://github.com/IDMEFv2/idmefv2-drafts)  
        * Format Official IETF Internet Draft :  [ The Incident Detection Message Exchange Format version 2 (IDMEFv2)](https://datatracker.ietf.org/doc/draft-lehmann-idmefv2/)
