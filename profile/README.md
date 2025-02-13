@@ -51,7 +51,7 @@
    * [Online IDMEFv2 JSON file Validator: ](https://idmefv2.github.io/idmefv2_validator.html)
    A tool to validate IDMEFv2 JSON files. Essential to tune your own JSON files.
    
-   * [ IDMEFv2 JSON Schema]( https://raw.githubusercontent.com/IDMEFv2/IDMEFv2-Specification/main/IDMEFv2.schema)https://github.com/IDMEFv2/IDMEFv2-Drafts/blob/main/IDMEFv2/latest/IDMEFv2.schema)
+   * [ IDMEFv2 JSON Schema](https://raw.githubusercontent.com/IDMEFv2/IDMEFv2-Specification/main/IDMEFv2.schema)https://github.com/IDMEFv2/IDMEFv2-Drafts/blob/main/IDMEFv2/latest/IDMEFv2.schema)
    A JSON Schema for IDMEFv2 message validation.
    
  <!---     
