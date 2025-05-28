@@ -19,19 +19,19 @@
    
    Documentation :
    
-   * [IDMEFv2 in a nutshell: ](https://idmefv2.github.io/index.php/idmefv2-in-a-nutshell/index.html) A short introduction of IDMEFv2. 
+   * [IDMEFv2 in a nutshell: ](https://idmefv2.org/index.php/idmefv2-in-a-nutshell/) A short introduction of IDMEFv2. 
    
-   * [IDMEFv2 Genesis and history: ](https://idmefv2.github.io/index.php/genesis-and-history/index.html)
+   * [IDMEFv2 Genesis and history: ](https://idmefv2.org/index.php/genesis-and-history/)
    A brief history of IDMEF V1 and V2.
    
-   * [IDMEFv2 Initiative planning: ](https://idmefv2.github.io/index.php/standardization-planning/index.html) :
+   * [IDMEFv2 Initiative planning: ](https://idmefv2.org/index.php/standardization-planning/) :
    Macro planning of the IDMEFv2 standardisation initiative planning
    
-   * [IDMEFv2: Standard Definition principles](https://idmefv2.github.io/index.php/standardization-principles/index.html) : The principles followed to define IDMEFv2.
+   * [IDMEFv2: Standard Definition principles](https://idmefv2.org/index.php/standardization-principles/) : The principles followed to define IDMEFv2.
    
-   * [IDMEFv2 Glossary: ](https://idmefv2.github.io/index.php/glossary/index.html) IDMEFv2 related terms glossary.
+   * [IDMEFv2 Glossary: ](https://idmefv2.org/index.php/glossary/) IDMEFv2 related terms glossary.
    
-   * [IDMEFv2 FAQ: ](https://idmefv2.github.io/index.php/idmefv2-faq/index.html) Frequently asked questions about IDMEFv2.
+   * [IDMEFv2 FAQ: ](https://idmefv2.org/index.php/idmefv2-faq/) Frequently asked questions about IDMEFv2.
    
    
    * [IDMEFv2 Specification: V00 15/10/2022 ](https://github.com/IDMEFv2/idmefv2-drafts)  
