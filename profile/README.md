@@ -73,7 +73,7 @@
    
    Java librairies :
    
-   * [IDMEFv2 format java library](https://github.com/IDMEFv2/java-idmef-library): 
+   * [IDMEFv2 format java library](https://github.com/IDMEFv2/java-idmefv2): 
    A Java library for serializing, deserializing and validating JSON IDMEFv2 messages.
    
    * [IDMEFv2 transport java library](https://github.com/IDMEFv2/java-idmef-transport-library): 
